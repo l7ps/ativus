@@ -1,0 +1,6 @@
+codigo_interno,tipo,marca_modelo,numero_serie,responsavel,setor_sala,data_aquisicao,garantia_ate,valor_aquisicao,status,toner_info,is_datacard,location,fornecedor_nome
+EQ001,notebook,Dell Inspiron 15,SN12345,João Silva,TI - Sala 101,2023-01-15,2026-01-15,2500.00,ativo,,0,,Fornecedor A
+EQ002,impressora,HP LaserJet Pro,SN67890,Maria Souza,Recepção,2022-11-01,2025-11-01,800.50,ativo,Toner HP 85A,1,Sala 102,Fornecedor B
+EQ003,celular,Samsung Galaxy S21,SN11223,Carlos Pereira,Vendas,2024-03-10,2025-03-10,1500.00,em_manutencao,,,,
+
+

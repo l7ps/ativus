@@ -1,0 +1,6 @@
+nome_servico,tipo,data_inicio,data_fim,valor_mensal,status,observacoes
+Software X,software,2023-05-01,2024-05-01,150.00,ativa,Licença anual
+Hospedagem Y,hospedagem,2022-01-01,2025-01-01,50.00,ativa,Plano básico
+Suporte Z,servicos,2024-01-10,2025-01-10,200.00,vencendo,Contrato de suporte premium
+
+

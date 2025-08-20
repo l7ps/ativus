@@ -1,0 +1,4 @@
+<?php
+include 'setup.php';
+?>
+
